@@ -4,7 +4,7 @@
 )](https://www.linkedin.com/in/mateussdo/)
 
 
-![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberMatts&show_icons=true&theme=synthwave)
+![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberMatts&show_icons=true&theme=shadow_red)
 
 ## Algumas Tecnologias do dia a dia!
 
